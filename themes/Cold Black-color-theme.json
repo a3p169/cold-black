@@ -973,7 +973,7 @@
 	  // TABS
 	  "tab.border": "#10101000",
 	  "tab.activeBorder": "#509080",
-	  "tab.activeBackground": "#32302f",
+	  "tab.activeBackground": "#101010",
 	  "tab.activeForeground": "#508090",
 	  "tab.inactiveForeground": "#455565",
 	  "tab.inactiveBackground": "#101010",
