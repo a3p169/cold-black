@@ -1,0 +1,23 @@
+{
+    "name": "cold-black",
+    "displayName": "Cold Black",
+    "description": "Dark icy blue theme",
+    "publisher": "VSCodeStylized",
+    "version": "0.0.2",
+    "icon": "https://i.imgur.com/f5pGGsp.png",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cold Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cold Black-color-theme.json"
+            }
+        ]
+    }
+}
