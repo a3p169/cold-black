@@ -4,7 +4,7 @@
     "description": "Dark icy blue theme",
     "publisher": "VSCodeStylized",
     "version": "0.0.2",
-    "icon": "https://i.imgur.com/f5pGGsp.png",
+    "icon": "images/vscodestylized.png",
     "engines": {
         "vscode": "^1.55.0"
     },
